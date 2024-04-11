@@ -1,0 +1,10 @@
+[
+  {
+    "CollegeName": "ABC",
+    "Country": "New Zealand",
+    "Title": "M.Tech",
+    "Degree": "CSE",
+    "Year": "2007",
+    "PopUpMessage": "Education entry successfully removed"
+  }
+]

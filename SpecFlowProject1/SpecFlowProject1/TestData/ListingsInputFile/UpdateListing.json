@@ -1,0 +1,32 @@
+[
+  {
+    "Title": "Gardening123test123",
+    "Description": "Teaching Gardening 123test123",
+    "Category": "Fun & Lifestyle",
+    "SubCategory": "Online Lessons",
+    "Tags": "Gardeningtest123",
+    "ServiceType": "Hourly basis service",
+    "LocationType": "On-site",
+    "StartDate": "11/05/2024",
+    "EndDate": "12/12/2024",
+    "SkillTrade": "Credit",
+    "SkillExchange": "C Sharp",
+    "Amount": "10",
+    "ActiveStatus": "Hidden",
+    "PopUpMessage": "Service Listing Added Successfully",
+    "EditTitle": "Biking",
+    "EditDescription": "Teaching Biking",
+    "EditCategory": "Fun & Lifestyle",
+    "EditSubCategory": "Online Lessons",
+    "EditTags": "Gardeningtest123",
+    "EditServiceType": "Hourly basis service",
+    "EditLocationType": "On-site",
+    "EditStartDate": "11/05/2024",
+    "EditEndDate": "12/12/2024",
+    "EditSkillTrade": "Credit",
+    "EditSkillExchange": "C Sharp",
+    "EditAmount": "10",
+    "EditActiveStatus": "Active",
+    "EditPopUpMessage": "Service Listing Updated Successfully"
+  }
+]

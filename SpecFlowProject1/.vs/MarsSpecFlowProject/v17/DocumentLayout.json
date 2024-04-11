@@ -1,0 +1,1097 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\features\\profile.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\features\\profile.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\educationinputfiles\\addexistingeducation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\educationinputfiles\\addexistingeducation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\educationinputfiles\\addinvalideducation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\educationinputfiles\\addinvalideducation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\addinvalideducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\addinvalideducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\addexistingeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\addexistingeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\marsspecflowproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\marsspecflowproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\obj\\Debug\\net6.0\\NUnit.AssemblyHooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SpecFlowProject1\\obj\\Debug\\net6.0\\NUnit.AssemblyHooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\features\\education.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\features\\education.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\educationinputfiles\\addeducation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\educationinputfiles\\addeducation.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\assertionhelpers\\loginassertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\assertionhelpers\\loginassertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\features\\managelisting.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\features\\managelisting.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\features\\managerequest.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\features\\managerequest.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\pages\\components\\homepagecomponents\\profileoverviewcomponents\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\pages\\components\\homepagecomponents\\profileoverviewcomponents\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\assertionhelpers\\educationassertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\assertionhelpers\\educationassertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\stepdefinitions\\educationstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\stepdefinitions\\educationstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\steps\\educationsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\steps\\educationsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\utilities\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\utilities\\jsonreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\utilities\\wait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\utilities\\wait.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\utilities\\projectpathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\utilities\\projectpathhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\addeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\addeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\utilities\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\utilities\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\utilities\\extentreporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\utilities\\extentreporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\utilities\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\utilities\\commondriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\steps\\managerequeststeps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\steps\\managerequeststeps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\steps\\managelistingsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\steps\\managelistingsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\steps\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\steps\\loginsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\steps\\changepasswordsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\steps\\changepasswordsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\stepdefinitions\\profilestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\stepdefinitions\\profilestepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\stepdefinitions\\managerequeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\stepdefinitions\\managerequeststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\stepdefinitions\\managelistingstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\stepdefinitions\\managelistingstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\pages\\splashpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\pages\\splashpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\pages\\components\\signin\\logincomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\pages\\components\\signin\\logincomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\pages\\components\\homepagecomponents\\searchskillcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\pages\\components\\homepagecomponents\\searchskillcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\pages\\components\\homepagecomponents\\navigationmenucomponents\\managerequestscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\pages\\components\\homepagecomponents\\navigationmenucomponents\\managerequestscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\pages\\components\\homepagecomponents\\navigationmenucomponents\\managelistingcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\pages\\components\\homepagecomponents\\navigationmenucomponents\\managelistingcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\pages\\components\\homepagecomponents\\accountmenucomponents\\userdetailscomponent\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\pages\\components\\homepagecomponents\\accountmenucomponents\\userdetailscomponent\\username.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\pages\\components\\homepagecomponents\\accountmenucomponents\\userdetailscomponent\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\pages\\components\\homepagecomponents\\accountmenucomponents\\userdetailscomponent\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\withdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\withdrawrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\viewlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\viewlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\updatelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\updatelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\toggleenable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\toggleenable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\toggledisable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\toggledisable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\sendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\sendrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\deletelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\deletelisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\deleteeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\deleteeducation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\declinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\declinerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\completerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\completerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\addlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\addlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\jsonobjectclasses\\acceptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\jsonobjectclasses\\acceptrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\assertionhelpers\\updatepasswordassertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\assertionhelpers\\updatepasswordassertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\assertionhelpers\\managerequestassertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\assertionhelpers\\managerequestassertions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\assertionhelpers\\managelistingassertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\assertionhelpers\\managelistingassertion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\logininputfile\\login.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\logininputfile\\login.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\profiledatainputfile\\password.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\profiledatainputfile\\password.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\managerequestsinputfile\\withdrawrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\managerequestsinputfile\\withdrawrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\managerequestsinputfile\\acceptrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\managerequestsinputfile\\acceptrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\managerequestsinputfile\\declinerequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\managerequestsinputfile\\declinerequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\managerequestsinputfile\\completerequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\managerequestsinputfile\\completerequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\listingsinputfile\\addlisting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\listingsinputfile\\addlisting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\listingsinputfile\\sendrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\listingsinputfile\\sendrequest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\listingsinputfile\\viewlisting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\listingsinputfile\\viewlisting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\listingsinputfile\\updatelisting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\listingsinputfile\\updatelisting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\listingsinputfile\\toggleenable.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\listingsinputfile\\toggleenable.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\listingsinputfile\\toggledisable.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\listingsinputfile\\toggledisable.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|c:\\internship\\advancedtask\\marsadvacedtaskpart2\\specflowproject1\\specflowproject1\\testdata\\listingsinputfile\\deletelisting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EBE7D16-09E0-4AEA-9E23-DFCDDE94A8CE}|SpecFlowProject1\\MarsSpecFlowProject.csproj|solutionrelative:specflowproject1\\testdata\\listingsinputfile\\deletelisting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Education.feature",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Features\\Education.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Features\\Education.feature",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Features\\Education.feature",
+              "RelativeToolTip": "SpecFlowProject1\\Features\\Education.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-04T20:38:54.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddEducation.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\EducationInputFiles\\AddEducation.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\EducationInputFiles\\AddEducation.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\EducationInputFiles\\AddEducation.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\EducationInputFiles\\AddEducation.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-08T00:47:37.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddInvalidEducation.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\EducationInputFiles\\AddInvalidEducation.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\EducationInputFiles\\AddInvalidEducation.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\EducationInputFiles\\AddInvalidEducation.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\EducationInputFiles\\AddInvalidEducation.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T00:41:41.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginAssertion.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\AssertionHelpers\\LoginAssertion.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\AssertionHelpers\\LoginAssertion.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\AssertionHelpers\\LoginAssertion.cs",
+              "RelativeToolTip": "SpecFlowProject1\\AssertionHelpers\\LoginAssertion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T00:41:19.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageListing.feature",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Features\\ManageListing.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Features\\ManageListing.feature",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Features\\ManageListing.feature",
+              "RelativeToolTip": "SpecFlowProject1\\Features\\ManageListing.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-21T00:37:10.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageRequest.feature",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Features\\ManageRequest.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Features\\ManageRequest.feature",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Features\\ManageRequest.feature",
+              "RelativeToolTip": "SpecFlowProject1\\Features\\ManageRequest.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-21T01:12:52.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.feature",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Features\\Profile.feature",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Features\\Profile.feature",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Features\\Profile.feature",
+              "RelativeToolTip": "SpecFlowProject1\\Features\\Profile.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAQWSURBVDhPdVRLb1tFFP7mPnztaydObOcJcWolhDRpVURQAyWNWgItsGlZ0YoFEgseKxCCFWv4AWzYIxAgQVRVlSo1En1IoDRtSUEpRFWUd9I4DztOff269r18c\u002B0oSRGf9dkzZ2Y\u002BnznnzBH4P3zRGMARXxtHcbKZdMg1uFjCVCmJr9IFzg/Cdd2Dgm\u002BQnylBTISH0Kydhakco0WKGXKZKFDwEfLOJObLV/BN5h42nXxtzYNa\u002BwVeNBScNRPoMs5BNd6FppwUEM8qQmlz4UYBEVGFGhNCtLo6vW5UutGglNDvS8GvZLFc9mT2BF8zWzFgjiCjvwdXDAc1M9JX36MnQp0ia\u002BfQZrbgWEOf8KuGb7OYikARXYjrIXTrj7DjJHG/VJQyVcGYIvC8McwNFzkbUaCorf5mXIifx\u002BmWE1jMrWAwOoC34\u002BcYJuBu\u002Bk95SiEPkRmslZcZglVYrmcEPgqbGPSf4ui04F/XayHYbhl\u002BNYBOM46j4T6ciL2AOtrLtO\u002BDTp7BkH8IH4c9g\u002BZ9G6IPmkj4FX/ombqE\u002BLT3Q6zk1rBgLeO3jdtYyK9gPrcIh\u002B7NZhe8I8RuQp/msJszxhlbVQ\u002BBLrKpgopquzbXBNoDLUjbGUykJykyjzup\u002BxjfuoclXv8JBJj5ZhYVhatxkIiQpu2UsVFMYWLzDyQLG8iWLY9WOYd0aRu2U0LMiKA7lEDMFwWzXj0NBMmYHOwKepCeyW8Zv216Z9kWr\u002BlwEyPLT6PRgJebjuNi51s42TQIkzGuQep44dsVXCctUwugP9yDT3rex6stwzgUiiOshRHW6xE1GuEXfnQE2vFm6wj3fIAIbTXI4k7LQdXnVwIKIuoAX87hfKUokoV13FwfR4f5FE41vQSfZuB49DnPq8cMwZXVa5hgTKcy0yg5JabdHUfaGcWveavq4c38Iubsv1kSy\u002BvFTVxekQcmIT3ua\u002BiBrugIqkGWz2Hv6tfXf8fY2g0vtsQyZu0ZaqTkpOrhbLmIuOZHlx7lM0sUnILuU3TRHmhFzsnhFr3N2DsIaUHMsXymMv\u002BAe1jisijdG7hTuopfrIdSaq85vBOqxxnzdejic1r7afGxLoWqKEJ6ItPiU31MUoXZtinmdZ8k7/wlruV/xvfZDSmz95YXyzYsZw1HjQc8LYu0oeJWZCnVEud6YrTJiRTLkF/jp\u002BxVjLHyi/JR7heUhu1KgcHdRK8xx5UZWmXm5PNqkltqkE3gIUrudxQbxe3CHFIs0Br2BCUsiiYZT00sMUnzvOUOGlVZG0dImYElchxblcu4lR/FWG4GKdfrMrs4KCghl/8quWxHWTbZAnp9IVpkV5nmta/zBj/ibukSvn28yr3e/ffjYMd\u002BEhfqwjgf7OConZyGqCRxKVfED5a3/F8A/wKUXZtBUQWfiQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-02-20T20:08:46.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Education.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\ProfileOverviewComponents\\Education.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\ProfileOverviewComponents\\Education.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\ProfileOverviewComponents\\Education.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\ProfileOverviewComponents\\Education.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAqwFgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T01:05:16.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EducationAssertion.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\AssertionHelpers\\EducationAssertion.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\AssertionHelpers\\EducationAssertion.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\AssertionHelpers\\EducationAssertion.cs",
+              "RelativeToolTip": "SpecFlowProject1\\AssertionHelpers\\EducationAssertion.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T22:57:15.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EducationStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\EducationStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\StepDefinitions\\EducationStepDefinitions.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\EducationStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowProject1\\StepDefinitions\\EducationStepDefinitions.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T22:01:20.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddExistingEducation.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\EducationInputFiles\\AddExistingEducation.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\EducationInputFiles\\AddExistingEducation.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\EducationInputFiles\\AddExistingEducation.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\EducationInputFiles\\AddExistingEducation.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T00:42:44.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EducationSteps.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Steps\\EducationSteps.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Steps\\EducationSteps.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Steps\\EducationSteps.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Steps\\EducationSteps.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T21:54:23.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JSONReader.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\JSONReader.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Utilities\\JSONReader.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\JSONReader.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Utilities\\JSONReader.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-08T00:03:48.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddExistingEducation.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\AddExistingEducation.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\AddExistingEducation.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\AddExistingEducation.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\AddExistingEducation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:49:45.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddInvalidEducation.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\AddInvalidEducation.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\AddInvalidEducation.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\AddInvalidEducation.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\AddInvalidEducation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:50:37.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Wait.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\Wait.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Utilities\\Wait.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\Wait.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Utilities\\Wait.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T00:42:21.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProjectPathHelper.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\ProjectPathHelper.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Utilities\\ProjectPathHelper.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\ProjectPathHelper.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Utilities\\ProjectPathHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T00:42:25.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddEducation.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\AddEducation.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\AddEducation.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\AddEducation.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\AddEducation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T00:36:18.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\Hooks.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Utilities\\Hooks.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\Hooks.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Utilities\\Hooks.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T22:04:34.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ExtentReportHelper.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\ExtentReportHelper.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Utilities\\ExtentReportHelper.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\ExtentReportHelper.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Utilities\\ExtentReportHelper.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T22:20:36.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CommonDriver.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\CommonDriver.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Utilities\\CommonDriver.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Utilities\\CommonDriver.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Utilities\\CommonDriver.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAADgvxwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T22:03:01.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManageRequestSteps.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Steps\\ManageRequestSteps.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Steps\\ManageRequestSteps.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Steps\\ManageRequestSteps.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Steps\\ManageRequestSteps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T21:37:00.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManageListingSteps.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Steps\\ManageListingSteps.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Steps\\ManageListingSteps.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Steps\\ManageListingSteps.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Steps\\ManageListingSteps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwEgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T22:17:12.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginSteps.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Steps\\LoginSteps.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Steps\\LoginSteps.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Steps\\LoginSteps.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Steps\\LoginSteps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T00:39:14.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChangePasswordSteps.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Steps\\ChangePasswordSteps.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Steps\\ChangePasswordSteps.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Steps\\ChangePasswordSteps.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Steps\\ChangePasswordSteps.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:48:58.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProfileStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\ProfileStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\StepDefinitions\\ProfileStepDefinitions.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\ProfileStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowProject1\\StepDefinitions\\ProfileStepDefinitions.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:12:13.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManageRequestStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\ManageRequestStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\StepDefinitions\\ManageRequestStepDefinitions.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\ManageRequestStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowProject1\\StepDefinitions\\ManageRequestStepDefinitions.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAQwGYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T01:27:07.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ManageListingStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\ManageListingStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\StepDefinitions\\ManageListingStepDefinitions.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\StepDefinitions\\ManageListingStepDefinitions.cs",
+              "RelativeToolTip": "SpecFlowProject1\\StepDefinitions\\ManageListingStepDefinitions.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAuwJMAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T22:20:54.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SplashPage.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\SplashPage.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Pages\\SplashPage.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\SplashPage.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Pages\\SplashPage.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T00:22:57.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginComponent.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\SignIn\\LoginComponent.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Pages\\Components\\SignIn\\LoginComponent.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\SignIn\\LoginComponent.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Pages\\Components\\SignIn\\LoginComponent.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T00:13:36.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SearchSkillComponent.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\SearchSkillComponent.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\SearchSkillComponent.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\SearchSkillComponent.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\SearchSkillComponent.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAuwHcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T22:13:21.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ManageRequestsComponent.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\NavigationMenuComponents\\ManageRequestsComponent.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\NavigationMenuComponents\\ManageRequestsComponent.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\NavigationMenuComponents\\ManageRequestsComponent.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\NavigationMenuComponents\\ManageRequestsComponent.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAcwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:59:50.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ManageListingComponent.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\NavigationMenuComponents\\ManageListingComponent.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\NavigationMenuComponents\\ManageListingComponent.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\NavigationMenuComponents\\ManageListingComponent.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\NavigationMenuComponents\\ManageListingComponent.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAYwCoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T22:08:59.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserName.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\AccountMenuComponents\\UserDetailsComponent\\UserName.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\AccountMenuComponents\\UserDetailsComponent\\UserName.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\AccountMenuComponents\\UserDetailsComponent\\UserName.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\AccountMenuComponents\\UserDetailsComponent\\UserName.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:38:59.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\AccountMenuComponents\\UserDetailsComponent\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\AccountMenuComponents\\UserDetailsComponent\\ChangePassword.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\Pages\\Components\\HomePageComponents\\AccountMenuComponents\\UserDetailsComponent\\ChangePassword.cs",
+              "RelativeToolTip": "SpecFlowProject1\\Pages\\Components\\HomePageComponents\\AccountMenuComponents\\UserDetailsComponent\\ChangePassword.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:29:38.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "WithdrawRequest.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\WithdrawRequest.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\WithdrawRequest.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\WithdrawRequest.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\WithdrawRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:47:38.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ViewListing.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\ViewListing.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\ViewListing.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\ViewListing.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\ViewListing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T20:51:43.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateListing.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\UpdateListing.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\UpdateListing.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\UpdateListing.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\UpdateListing.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA2wCEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:50:41.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ToggleEnable.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\ToggleEnable.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\ToggleEnable.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\ToggleEnable.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\ToggleEnable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T23:03:02.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ToggleDisable.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\ToggleDisable.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\ToggleDisable.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\ToggleDisable.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\ToggleDisable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T23:57:44.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SendRequest.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\SendRequest.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\SendRequest.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\SendRequest.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\SendRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T23:30:10.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Password.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\Password.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\Password.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\Password.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\Password.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T20:23:28.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\Login.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\Login.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\Login.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T23:39:53.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DeleteListing.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\DeleteListing.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\DeleteListing.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\DeleteListing.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\DeleteListing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T22:13:23.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DeleteEducation.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\DeleteEducation.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\DeleteEducation.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\DeleteEducation.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\DeleteEducation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-14T22:20:34.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DeclineRequest.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\DeclineRequest.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\DeclineRequest.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\DeclineRequest.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\DeclineRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T23:15:23.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CompleteRequest.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\CompleteRequest.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\CompleteRequest.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\CompleteRequest.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\CompleteRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T00:04:18.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AddListing.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\AddListing.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\AddListing.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\AddListing.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\AddListing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:11:04.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AcceptRequest.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\AcceptRequest.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\JSONObjectClasses\\AcceptRequest.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\JSONObjectClasses\\AcceptRequest.cs",
+              "RelativeToolTip": "SpecFlowProject1\\JSONObjectClasses\\AcceptRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:32:43.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UpdatePasswordAssertion.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\AssertionHelpers\\UpdatePasswordAssertion.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\AssertionHelpers\\UpdatePasswordAssertion.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\AssertionHelpers\\UpdatePasswordAssertion.cs",
+              "RelativeToolTip": "SpecFlowProject1\\AssertionHelpers\\UpdatePasswordAssertion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T21:48:50.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ManageRequestAssertions.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\AssertionHelpers\\ManageRequestAssertions.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\AssertionHelpers\\ManageRequestAssertions.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\AssertionHelpers\\ManageRequestAssertions.cs",
+              "RelativeToolTip": "SpecFlowProject1\\AssertionHelpers\\ManageRequestAssertions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T01:56:12.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ManageListingAssertion.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\AssertionHelpers\\ManageListingAssertion.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\AssertionHelpers\\ManageListingAssertion.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\AssertionHelpers\\ManageListingAssertion.cs",
+              "RelativeToolTip": "SpecFlowProject1\\AssertionHelpers\\ManageListingAssertion.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T21:57:58.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Login.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\LoginInputFile\\Login.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\LoginInputFile\\Login.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\LoginInputFile\\Login.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\LoginInputFile\\Login.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-07T23:38:17.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Password.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ProfileDataInputFile\\Password.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ProfileDataInputFile\\Password.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ProfileDataInputFile\\Password.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ProfileDataInputFile\\Password.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-20T20:14:01.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarsSpecFlowProject.csproj",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\MarsSpecFlowProject.csproj",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\MarsSpecFlowProject.csproj",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\MarsSpecFlowProject.csproj",
+              "RelativeToolTip": "SpecFlowProject1\\MarsSpecFlowProject.csproj",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-04T21:50:24.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "WithdrawRequest.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ManageRequestsInputFile\\WithdrawRequest.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ManageRequestsInputFile\\WithdrawRequest.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ManageRequestsInputFile\\WithdrawRequest.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ManageRequestsInputFile\\WithdrawRequest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T05:32:53.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AcceptRequest.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ManageRequestsInputFile\\AcceptRequest.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ManageRequestsInputFile\\AcceptRequest.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ManageRequestsInputFile\\AcceptRequest.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ManageRequestsInputFile\\AcceptRequest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T01:23:43.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "DeclineRequest.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ManageRequestsInputFile\\DeclineRequest.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ManageRequestsInputFile\\DeclineRequest.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ManageRequestsInputFile\\DeclineRequest.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ManageRequestsInputFile\\DeclineRequest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T22:47:33.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CompleteRequest.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ManageRequestsInputFile\\CompleteRequest.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ManageRequestsInputFile\\CompleteRequest.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ManageRequestsInputFile\\CompleteRequest.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ManageRequestsInputFile\\CompleteRequest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T00:01:10.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AddListing.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\AddListing.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ListingsInputFile\\AddListing.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\AddListing.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ListingsInputFile\\AddListing.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T21:07:53.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "SendRequest.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\SendRequest.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ListingsInputFile\\SendRequest.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\SendRequest.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ListingsInputFile\\SendRequest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-08T23:27:34.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ViewListing.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\ViewListing.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ListingsInputFile\\ViewListing.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\ViewListing.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ListingsInputFile\\ViewListing.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T20:50:03.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UpdateListing.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\UpdateListing.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ListingsInputFile\\UpdateListing.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\UpdateListing.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ListingsInputFile\\UpdateListing.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T23:44:38.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ToggleEnable.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\ToggleEnable.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ListingsInputFile\\ToggleEnable.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\ToggleEnable.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ListingsInputFile\\ToggleEnable.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T23:02:04.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ToggleDisable.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\ToggleDisable.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ListingsInputFile\\ToggleDisable.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\ToggleDisable.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ListingsInputFile\\ToggleDisable.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-17T23:57:44.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "DeleteListing.json",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\DeleteListing.json",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\TestData\\ListingsInputFile\\DeleteListing.json",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\TestData\\ListingsInputFile\\DeleteListing.json",
+              "RelativeToolTip": "SpecFlowProject1\\TestData\\ListingsInputFile\\DeleteListing.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T22:00:37.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NUnit.AssemblyHooks.cs",
+              "DocumentMoniker": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\obj\\Debug\\net6.0\\NUnit.AssemblyHooks.cs",
+              "RelativeDocumentMoniker": "SpecFlowProject1\\obj\\Debug\\net6.0\\NUnit.AssemblyHooks.cs",
+              "ToolTip": "C:\\Internship\\AdvancedTask\\MARSAdvacedTaskPart2\\SpecFlowProject1\\SpecFlowProject1\\obj\\Debug\\net6.0\\NUnit.AssemblyHooks.cs",
+              "RelativeToolTip": "SpecFlowProject1\\obj\\Debug\\net6.0\\NUnit.AssemblyHooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T22:33:12.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
