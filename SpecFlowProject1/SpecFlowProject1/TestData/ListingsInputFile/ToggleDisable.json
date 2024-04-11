@@ -1,0 +1,18 @@
+[
+  {
+    "Title": "Dancing",
+    "Description": "Teaching dancing 123",
+    "Category": "Fun & Lifestyle",
+    "SubCategory": "Online Lessons",
+    "Tags": "Dancingtest123",
+    "ServiceType": "Hourly basis service",
+    "LocationType": "On-site",
+    "StartDate": "11/06/2024",
+    "EndDate": "12/12/2024",
+    "SkillTrade": "Credit",
+    "SkillExchange": "Java",
+    "Amount": "10",
+    "ActiveStatus": "Active",
+    "PopUpMessage": "Service has been deactivated"
+  }
+]
